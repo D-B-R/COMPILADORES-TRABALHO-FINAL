@@ -20,8 +20,7 @@ public class Run {
     public static void main(String[] args) throws IOException {
 
 
-        String filename = "test.c";
-        
+           
         
         CharStream charInput = new ANTLRFileStream(filename);
     
